@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/chandrasekharn081998/java-sample/_apis/build/status%2Fchandrasekhar5555-osd.pipelines-java?branchName=main)](https://dev.azure.com/chandrasekharn081998/java-sample/_build/latest?definitionId=14&branchName=main)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
